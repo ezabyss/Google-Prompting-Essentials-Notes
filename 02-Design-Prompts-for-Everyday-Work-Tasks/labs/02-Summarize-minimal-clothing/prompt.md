@@ -1,3 +1,4 @@
+```
 Task:
 Summarize the document below into a concise, executive-level summary.
 
@@ -22,3 +23,4 @@ Iteration Rules:
 Document to summarize:
 [PASTE DOCUMENT HERE]
 eg. sample.docx
+```
